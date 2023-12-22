@@ -1,0 +1,13 @@
+:root {
+  --fontFamily: sans-serif;
+  --border-radius: 20px;
+  --grad-one: linear-gradient(#f5efb8, #d1cc9f);
+  --grad-two: linear-gradient(#96153e, #e02341);
+  --layout-width: 80%;
+}
+
+/* body {
+  margin: 20px auto;
+  background: #242934;
+  font-family: var(--fontFamily);
+} */

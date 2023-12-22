@@ -1,0 +1,156 @@
+{
+    "records": [
+        {
+            "id": "rec1X3ATCCrXl2csI",
+            "createdTime": "2020-11-10T16:59:09.000Z",
+            "fields": {
+                "side1": "occasionally",
+                "side2": "af en toe"
+            }
+        },
+        {
+            "id": "rec2yFtwzLBDVJQy0",
+            "createdTime": "2020-11-19T12:56:53.000Z",
+            "fields": {
+                "side1": "moderate",
+                "side2": "gematigd"
+            }
+        },
+        {
+            "id": "rec5mtD34CgSNv9vi",
+            "createdTime": "2020-11-10T16:59:29.000Z",
+            "fields": {
+                "side1": "for the time being",
+                "side2": "voorlopig"
+            }
+        },
+        {
+            "id": "rec88KPsZi3607bEY",
+            "createdTime": "2020-11-05T06:33:25.000Z",
+            "fields": {
+                "side1": "current",
+                "side2": "huidige"
+            }
+        },
+        {
+            "id": "recCEpvH4qqoZP4W5",
+            "createdTime": "2020-09-20T18:25:34.000Z",
+            "fields": {
+                "side1": "To make",
+                "side2": "maaken"
+            }
+        },
+        {
+            "id": "recCOjoYursbP4eq9",
+            "createdTime": "2020-11-19T12:59:12.000Z",
+            "fields": {
+                "side1": "fertile",
+                "side2": "vruchtbaar"
+            }
+        },
+        {
+            "id": "recCV3yCSSqDrQcHA",
+            "createdTime": "2020-11-10T16:53:34.000Z",
+            "fields": {
+                "side1": "to turn out",
+                "side2": "blijken"
+            }
+        },
+        {
+            "id": "recHBF1euWQKXP3aG",
+            "createdTime": "2020-10-15T18:35:55.000Z",
+            "fields": {
+                "side1": "To eat",
+                "side2": "Eten"
+            }
+        },
+        {
+            "id": "recJdro6yDNFZO9hD",
+            "createdTime": "2020-11-10T16:53:57.000Z",
+            "fields": {
+                "side1": "to take over",
+                "side2": "overnemen"
+            }
+        },
+        {
+            "id": "recP0Un8WmxoNFeGw",
+            "createdTime": "2020-11-19T12:57:07.000Z",
+            "fields": {
+                "side1": "border",
+                "side2": "grens"
+            }
+        },
+        {
+            "id": "recPJxpDnrfauzBh6",
+            "createdTime": "2020-11-05T06:33:38.000Z",
+            "fields": {
+                "side1": "manager",
+                "side2": "leidinggevende"
+            }
+        },
+        {
+            "id": "recSMFR5JJHuBCgIa",
+            "createdTime": "2020-09-20T18:25:34.000Z",
+            "fields": {
+                "side1": "To drink",
+                "side2": "Drinken"
+            }
+        },
+        {
+            "id": "recSkXoTToasJT8iz",
+            "createdTime": "2020-11-10T16:58:58.000Z",
+            "fields": {
+                "side1": "heavy",
+                "side2": "zwaar"
+            }
+        },
+        {
+            "id": "recW41dLhtkuniQDm",
+            "createdTime": "2020-11-10T16:58:31.000Z",
+            "fields": {
+                "side1": "face",
+                "side2": "gezicht, het"
+            }
+        },
+        {
+            "id": "recXXJep5Msy2qoqr",
+            "createdTime": "2020-11-19T12:57:07.000Z",
+            "fields": {
+                "side1": "soft",
+                "side2": "zacht"
+            }
+        },
+        {
+            "id": "recercvDPaXjyEqJz",
+            "createdTime": "2020-11-10T16:58:11.000Z",
+            "fields": {
+                "side1": "decision",
+                "side2": "beslissing, de"
+            }
+        },
+        {
+            "id": "reco1kGn611If0ZlC",
+            "createdTime": "2020-09-20T18:25:34.000Z",
+            "fields": {
+                "side1": "Good morning",
+                "side2": "Goedemorgen"
+            }
+        },
+        {
+            "id": "recwAm23eWZRhiwmx",
+            "createdTime": "2020-11-10T16:57:55.000Z",
+            "fields": {
+                "side1": "therapy",
+                "side2": "behandeling, de"
+            }
+        },
+        {
+            "id": "recy2EWveLgzAF4Bo",
+            "createdTime": "2020-11-19T12:57:18.000Z",
+            "fields": {
+                "side1": "hilly",
+                "side2": "heuvelachtig"
+            }
+        }
+    ]
+}

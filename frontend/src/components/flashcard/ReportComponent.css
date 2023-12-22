@@ -1,0 +1,57 @@
+/* ReportComponent.css */
+
+.report-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    height: 80%;
+  }
+  
+  .report-container h3 {
+    margin-bottom: 10px;
+  }
+  
+  .report-items {
+    margin-bottom: 15px;
+  }
+  
+  .report-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
+  
+  .report-item span {
+    margin-right: 10px;
+  }
+  
+  .summary {
+    font-weight: bold;
+  }
+
+  /* ReportComponent.css */
+
+.report-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .report-table th,
+  .report-table td {
+    padding: 8px; /* Adjust the padding to increase space between columns */
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .report-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .report-table th,
+  .report-table td {
+    padding: 8px; /* Adjust the padding to increase space between columns */
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  

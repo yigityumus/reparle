@@ -1,0 +1,43 @@
+/* App.css */
+
+/* Basic styles for the app container */
+.app {
+  display: flex;
+}
+
+/* Sidebar styles */
+.sidebar {
+  width: 15vw;
+  height: 100vh;
+  background-color: white;
+  padding: 20px;
+  color: black;
+}
+
+.user-info {
+  margin-bottom: 20px;
+}
+
+.user-info p {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.options button {
+  border-radius: 8px;
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px 10px;
+  border: none;
+  background-color: #F0F0F0;
+  color: black;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.options button:hover {
+  color: white;
+  background-color: #242424;
+}
+  
