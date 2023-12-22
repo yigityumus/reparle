@@ -6,7 +6,7 @@ import MainContent from "./components/MainContent";
 import FlashCard from "./components/flashcard/FlashCard";
 import Dashboard from "./components/Dashboard";
 import DailyQuestion from "./components/dailyquestion/DailyQuestion";
-import Pronunciation from "./components/Pronunciation";
+import Pronunciation from "./components/pronunciation/Pronunciation";
 
 import "./App.css";
 

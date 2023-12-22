@@ -1,0 +1,6 @@
+flask
+flask_pymongo
+datetime
+g2p_en
+speech_recognition
+ebisu

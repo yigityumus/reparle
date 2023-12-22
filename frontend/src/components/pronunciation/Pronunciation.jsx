@@ -1,6 +1,10 @@
-import questions from "./Questions";
+import Questions from "./Questions";
 
 const Pronunciation = () => {
-	return <div className="pronunciation-container"></div>;
+	return (
+		<div className="pronunciation-container">
+			<Questions />
+		</div>
+	);
 };
 export default Pronunciation;
