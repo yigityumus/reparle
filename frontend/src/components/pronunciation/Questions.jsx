@@ -122,9 +122,7 @@ const QuestionsComponent = () => {
 			"/ˈɔːrɪndʒ/",
 			"/ʌmˈbrɛllə/",
 		];
-
 		const currentQuestion = wordData[current];
-		setUserInput(userInputs[current]);
 
 		if (currentQuestion.fields.phoneme === userInputs[current]) {
 			// Matched, set background color to green
@@ -133,6 +131,7 @@ const QuestionsComponent = () => {
 			// Not matched, set background color to red
 			document.querySelector(".question").style.background = "#CC0000";
 		}
+		setUserInput(userInputs[current]);
 	};
 
 	return (
@@ -150,7 +149,7 @@ const QuestionsComponent = () => {
 			{/* render cards */}
 			{/* {flashcardData && flashcardData.length > 0 ? cards[current] : loading} */}
 			{wordData && wordData.length > 0 ? (
-				<Question question={wordData[current]} />
+				<Question question={wordData[current]} userInput={userInput} />
 			) : (
 				<div className="loading">Loading flashcard content...</div>
 			)}

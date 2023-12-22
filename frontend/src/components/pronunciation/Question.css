@@ -1,3 +1,8 @@
+.question {
+    display: flex;
+    flex-direction: column;
+}
+
 .question small {
     opacity: 0.7;
     font-size: 0.7em;
@@ -10,3 +15,12 @@
     text-align: center;
     font-size: small;
 }
+
+.word {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .phoneme {
+    font-size: 18px;
+  }

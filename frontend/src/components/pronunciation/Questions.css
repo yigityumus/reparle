@@ -109,3 +109,16 @@ button.disabled {
   opacity: 0.5;
   cursor: not-allowed;
 }
+
+.user-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Adjust margin-top as needed */
+}
+
+.user-input h4 {
+  /* Your desired styles for the user input text */
+  font-size: 18px;
+  /* Other styles */
+}

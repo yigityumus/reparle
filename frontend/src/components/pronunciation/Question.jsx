@@ -2,7 +2,7 @@ import React from "react";
 
 import "./Question.css";
 
-export default function Question({ question }) {
+export default function Question({ question, userInput }) {
 	return (
 		<div className="question">
 			<small>
@@ -10,7 +10,9 @@ export default function Question({ question }) {
 				{question.id}
 			</small>
 			<div className="word">{question.fields.word}</div>
-			<div className="phoneme">{question.fields.phoneme}</div>
+			{userInput && userInput.length > 0 && (
+				<div className="phoneme">{question.fields.phoneme}</div>
+			)}
 		</div>
 	);
 }
