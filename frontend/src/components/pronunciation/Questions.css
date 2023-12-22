@@ -1,0 +1,42 @@
+/* QuestionsComponent.css */
+
+.questions-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .word-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .word {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .phonemes {
+    font-style: italic;
+  }
+  
+  .controls-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .record-button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 50%;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .record-button.recording {
+    background-color: red;
+  }
+  
