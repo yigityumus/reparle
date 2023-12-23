@@ -5,6 +5,8 @@
     padding: 20px;
     margin-top: 20px;
     height: 80%;
+    color: white;
+    overflow-y: hidden;
   }
   
   .report-container h3 {

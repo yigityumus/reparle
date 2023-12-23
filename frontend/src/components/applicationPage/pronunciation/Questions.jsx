@@ -5,7 +5,7 @@ import React, { useState, useEffect } from "react";
 import "./Questions.css";
 import Question from "./Question";
 
-import data from "../../data/pronunciation.json";
+import data from "../../../data/pronunciation.json";
 
 const QuestionsComponent = () => {
 	const [current, setCurrent] = useState(0);

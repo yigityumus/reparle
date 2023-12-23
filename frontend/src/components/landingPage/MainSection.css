@@ -1,0 +1,19 @@
+/* MainSection.css */
+
+.main-section {
+  display: flex;
+  margin: 20px;
+  height: 90vh;
+  flex-direction: row;
+  margin-top: 100px;
+}
+
+.slogan-container {
+  width: 70vw;
+  max-height: 70vh;
+}
+
+.form-container {
+  margin-top: 50px;
+  max-height: 70vh;
+}

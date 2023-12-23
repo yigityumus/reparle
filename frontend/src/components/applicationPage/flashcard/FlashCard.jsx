@@ -1,4 +1,8 @@
+// FlashCard.jsx
+
 import Cards from "./Cards";
+
+import "./FlashCard.css";
 
 const FlashCard = () => {
 	return (

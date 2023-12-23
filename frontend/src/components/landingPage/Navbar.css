@@ -1,0 +1,44 @@
+/* Navbar styles */
+.navbar {
+  background-color: black;
+  padding-right: 20px;
+  display: flex;
+  justify-content: space-between; /* Align items on both ends */
+  align-items: center; /* Vertically center items */
+  height: 10vh;
+  color: white;
+}
+
+.company-logo {
+  height: 100%;
+}
+
+.company-logo img {
+  margin-left: 30px;
+  height: 100%;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  margin: 0 10px;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: white;
+  transition: font-weight 0.3s, font-size 0.3s;
+  border: none;
+  cursor: pointer;
+}
+
+.navbar li a:hover {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+

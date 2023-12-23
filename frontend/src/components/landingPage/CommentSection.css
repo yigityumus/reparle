@@ -1,0 +1,35 @@
+/* Comment section styles */
+.comment-section {
+  width: 95vw;
+  height: 400px;
+  margin: 0px auto;
+  padding: 20px;
+  position: relative;
+  font-size: 1.8em;
+  border-bottom: 2px solid black;
+}
+
+.comment-section h3 {
+  text-align: center;
+  margin: 20px 0px;
+}
+  
+.comments-carousel {
+  width: 80%;
+  margin: 10px auto;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 20px;
+  font-style: italic;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.comment-content {
+  padding: 20px 100px 0px 100px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.comment-user {
+  padding-top: 0px;
+}

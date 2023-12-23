@@ -1,0 +1,9 @@
+/* FlashCard.css */
+
+.flashcard-container {
+    display: inline-flexbox;
+    flex-wrap: wrap;
+    max-height: 100%;
+    padding: 10px;
+    margin: 0px;
+}

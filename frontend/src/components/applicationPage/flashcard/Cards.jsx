@@ -5,7 +5,7 @@ import ReportComponent from "./ReportComponent.jsx";
 
 import "./Cards.css";
 
-import data from "../../data/flashcard.json";
+import data from "../../../data/flashcard.json";
 
 // https://www.youtube.com/watch?v=hEtZ040fsD8&feature=youtu.be&t=719 (flashcards)
 // https://www.youtube.com/watch?v=vs6usnS5OTE (slider)

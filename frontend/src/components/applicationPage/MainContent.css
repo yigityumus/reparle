@@ -1,9 +1,12 @@
 /* MainContent.css */
 
 .main-content {
-  width: 100%;
+  max-width: 100%;
   flex: 1;
   padding: 20px;
+  width: 80vw;
+  display: inline-flex;
+
 }
   
 .main-content h1 {

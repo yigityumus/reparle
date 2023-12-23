@@ -1,0 +1,100 @@
+/* Contact section styles */
+.contact-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 0;
+  width: 95vw;
+  height: 50vh;
+}
+
+.contact-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: left;
+  width: 100%;
+}
+
+.social-media-icons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 40%;
+  height: 100%;
+}
+
+.social-media-links {
+  display: flex;
+  flex-direction: column;
+}
+
+.social-media-link {
+  display: flex;
+  align-items: center;
+  margin: 10px auto;
+  width: fit-content;
+}
+
+.social-media-link img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+  display: block;
+}
+
+.social-media-link img:hover {
+  cursor: pointer;
+}
+
+
+.social-media-icons h2 {
+  text-align: center;
+}
+
+.social-media-icons a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.social-media-icons img {
+  width: 30px;
+  height: 30px;
+}
+
+
+
+.contact-form {
+  background-color: white;
+  text-align: center;
+  width: 40%;
+  height: 100%;
+}
+
+.message-input {
+  background-color: lightgray;
+  width: 90%;
+  height: 45%;
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.contact-form button {
+  width: 20%;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s ease;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.contact-form button:hover {
+  background-color: #F0F0F0;
+  color: black;
+}
