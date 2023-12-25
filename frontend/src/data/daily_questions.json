@@ -4,136 +4,128 @@
             "id": "rec1X3ATCCrXl2csI",
             "createdTime": "2023-12-10T16:59:09.000Z",
             "fields": {
-                "side1": "occasionally",
-                "side2": "occasionnellement"
+                "side1": "question",
+                "side2": "soru"
             }
         },
         {
             "id": "rec2yFtwzLBDVJQy0",
             "createdTime": "2023-12-19T12:56:53.000Z",
             "fields": {
-                "side1": "moderate",
-                "side2": "modéré"
+                "side1": "ingress",
+                "side2": "entrée"
             }
         },
         {
             "id": "rec5mtD34CgSNv9vi",
             "createdTime": "2023-12-10T16:59:29.000Z",
             "fields": {
-                "side1": "time",
-                "side2": "temps"
+                "side1": "chair",
+                "side2": "chaise"
             }
         },
         {
             "id": "rec88KPsZi3607bEY",
             "createdTime": "2023-12-05T06:33:25.000Z",
             "fields": {
-                "side1": "current",
-                "side2": "actuel"
+                "side1": "kitchen",
+                "side2": "cuisine"
             }
         },
         {
             "id": "recCEpvH4qqoZP4W5",
-            "createdTime": "2023-12-20T18:25:34.000Z",
+            "createdTime": "2023-02-20T18:25:34.000Z",
             "fields": {
-                "side1": "To eat",
-                "side2": "manger"
+                "side1": "To make",
+                "side2": "faire"
+            }
+        },
+        {
+            "id": "recCOjoYursbP4eq9",
+            "createdTime": "2023-12-19T12:59:12.000Z",
+            "fields": {
+                "side1": "refrigerator",
+                "side2": "réfrigérateur"
             }
         },
         {
             "id": "recCV3yCSSqDrQcHA",
             "createdTime": "2023-12-10T16:53:34.000Z",
             "fields": {
-                "side1": "loud speaker",
-                "side2": "haut-parleur"
+                "side1": "towel",
+                "side2": "serviette"
+            }
+        },
+        {
+            "id": "recHBF1euWQKXP3aG",
+            "createdTime": "2023-12-15T18:35:55.000Z",
+            "fields": {
+                "side1": "bike",
+                "side2": "vélo"
             }
         },
         {
             "id": "recJdro6yDNFZO9hD",
             "createdTime": "2023-12-10T16:53:57.000Z",
             "fields": {
-                "side1": "oven",
-                "side2": "four"
+                "side1": "garbage can",
+                "side2": "poubelle"
             }
         },
         {
             "id": "recP0Un8WmxoNFeGw",
             "createdTime": "2023-12-19T12:57:07.000Z",
             "fields": {
-                "side1": "border",
-                "side2": "frontière"
+                "side1": "street",
+                "side2": "rue"
             }
         },
         {
             "id": "recPJxpDnrfauzBh6",
             "createdTime": "2023-12-05T06:33:38.000Z",
             "fields": {
-                "side1": "bed",
-                "side2": "lit"
+                "side1": "grass",
+                "side2": "herbe"
             }
         },
         {
             "id": "recSMFR5JJHuBCgIa",
             "createdTime": "2023-12-20T18:25:34.000Z",
             "fields": {
-                "side1": "To sleep",
-                "side2": "dormir"
+                "side1": "To drink",
+                "side2": "boire"
             }
         },
         {
             "id": "recSkXoTToasJT8iz",
             "createdTime": "2023-12-10T16:58:58.000Z",
             "fields": {
-                "side1": "company",
-                "side2": "entreprise"
+                "side1": "fast",
+                "side2": "rapide"
             }
         },
         {
             "id": "recW41dLhtkuniQDm",
             "createdTime": "2023-12-10T16:58:31.000Z",
             "fields": {
-                "side1": "ninety four",
-                "side2": "quatre-vingt-quatorze"
+                "side1": "blue",
+                "side2": "bleu"
             }
         },
         {
             "id": "recXXJep5Msy2qoqr",
             "createdTime": "2023-12-19T12:57:07.000Z",
             "fields": {
-                "side1": "bag",
-                "side2": "sac"
+                "side1": "time-consuming",
+                "side2": "chronophage"
             }
         },
         {
             "id": "recercvDPaXjyEqJz",
             "createdTime": "2023-12-10T16:58:11.000Z",
             "fields": {
-                "side1": "pepper",
-                "side2": "poivre"
-            }
-        },
-        {
-            "id": "reco1kGn611If0ZlC",
-            "createdTime": "2023-12-20T18:25:34.000Z",
-            "fields": {
-                "side1": "Good morning",
-                "side2": "bonjour"
-            }
-        },
-        {
-            "id": "recwAm23eWZRhiwmx",
-            "createdTime": "2023-12-10T16:57:55.000Z",
-            "fields": {
-                "side1": "thrugerapy",
-                "side2": "tapis"
-            }
-        },
-        {
-            "id": "recy2EWveLgzAF4Bo",
-            "createdTime": "2023-12-19T12:57:18.000Z",
-            "fields": {
-                "side1": "hill",
-                "side2": "colline"
+                "side1": "label",
+                "side2": "étiquette"
             }
         }
     ]

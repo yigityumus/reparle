@@ -78,14 +78,11 @@ const QuestionsComponent = () => {
 	// 				});
 	// 				if (response.ok) {
 	// 					console.log("Audio saved successfully!");
-	// 					// Display a message that the answer has been saved to the database
 	// 				} else {
 	// 					console.error("Failed to save audio");
-	// 					// Handle the failure to save audio
 	// 				}
 	// 			} catch (error) {
 	// 				console.error("Error occurred while saving audio:", error);
-	// 				// Handle the error
 	// 			}
 	// 		};
 	// 	}

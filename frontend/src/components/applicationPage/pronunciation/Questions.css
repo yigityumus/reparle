@@ -114,7 +114,8 @@ button.disabled {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 20px; /* Adjust margin-top as needed */
+  margin-top: 20px;
+  color: white;
 }
 
 .user-input h4 {
